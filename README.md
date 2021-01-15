@@ -3,6 +3,7 @@
 
 ## SGDB's
 - ORACLE
+- POSTGRESQL
 
 ## Linguagens de Programação
 - Delphi/Lazarus(Pascal)
